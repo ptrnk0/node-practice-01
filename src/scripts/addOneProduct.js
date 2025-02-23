@@ -4,7 +4,7 @@ import { createFakeProduct } from '../utils/createFakeProduct.js';
 
 const addOneProduct = async () => {
   const data = await fs.readFile(PATH_DB, 'utf-8');
-  const parseData = JSON.parse(data);
+  const parseData = data ? JSON.parse(data) : [];
   parseData.push(createFakeProduct());
   await fs.writeFile(PATH_DB, JSON.stringify(parseData, null, 2), 'utf-8');
 };

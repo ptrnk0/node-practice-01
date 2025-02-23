@@ -3,7 +3,7 @@ import { PATH_DB } from '../constans/products.js';
 
 const getAllProducts = async () => {
   const products = await fs.readFile(PATH_DB, 'utf-8');
-  return JSON.parse(products);
+  return products ? JSON.parse(products) : [];
 };
 
 console.log(await getAllProducts());
