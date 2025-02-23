@@ -1,26 +1,20 @@
 [
   {
-    "name": "Licensed Bronze Pizza",
-    "price": "258.15",
-    "category": "Sports",
-    "description": "Professional-grade Table perfect for another training and recreational use"
+    "name": "Gorgeous Wooden Chips",
+    "price": "255.75",
+    "category": "Home",
+    "description": "Ergonomic Chips made with Cotton for all-day memorable support"
   },
   {
-    "name": "Intelligent Bamboo Cheese",
-    "price": "576.29",
-    "category": "Movies",
-    "description": "Ergonomic Chicken made with Concrete for all-day early support"
+    "name": "Ergonomic Plastic Pants",
+    "price": "831.49",
+    "category": "Electronics",
+    "description": "The indigo Towels combines Bahamas aesthetics with Berkelium-based durability"
   },
   {
-    "name": "Luxurious Concrete Soap",
-    "price": "197.49",
-    "category": "Beauty",
-    "description": "Our sweet-inspired Computer brings a taste of luxury to your hateful lifestyle"
-  },
-  {
-    "name": "Ergonomic Steel Shoes",
-    "price": "803.45",
-    "category": "Jewelry",
-    "description": "New tan Ball with ergonomic design for wide comfort"
+    "name": "Elegant Gold Shirt",
+    "price": "467.69",
+    "category": "Tools",
+    "description": "New Salad model with 33 GB RAM, 472 GB storage, and some features"
   }
 ]
