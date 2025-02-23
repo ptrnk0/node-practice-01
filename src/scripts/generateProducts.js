@@ -1,15 +1,14 @@
 import { createFakeProduct } from '../utils/createFakeProduct.js';
-import fs from 'node:fs/promises';
 import { PATH_DB } from '../constans/products.js';
+import { readProducts } from '../utils/readProducts.js';
+import { writeProducts } from '../utils/writeProducts.js';
 
 export const generateProducts = async (num) => {
-  const productsStr = await fs.readFile(PATH_DB, 'utf-8');
-
-  const products = productsStr ? JSON.parse(productsStr) : [];
+  const products = await readProducts(PATH_DB);
 
   for (let i = 0; i < num; i++) {
     products.push(createFakeProduct());
   }
-  await fs.writeFile(PATH_DB, JSON.stringify(products, null, 2), 'utf-8');
+  await writeProducts(products, PATH_DB);
 };
 generateProducts(3);

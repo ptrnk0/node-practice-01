@@ -1,20 +1,14 @@
 [
   {
-    "name": "Fantastic Bamboo Cheese",
-    "price": "987.99",
-    "category": "Movies",
-    "description": "Stylish Table designed to make you stand out with murky looks"
+    "name": "Tasty Bamboo Pizza",
+    "price": "550.19",
+    "category": "Home",
+    "description": "Ergonomic Chair made with Aluminum for all-day shoddy support"
   },
   {
-    "name": "Awesome Cotton Chair",
-    "price": "855.60",
-    "category": "Sports",
-    "description": "The sky blue Pizza combines Trinidad and Tobago aesthetics with Beryllium-based durability"
-  },
-  {
-    "name": "Intelligent Silk Gloves",
-    "price": "190.09",
-    "category": "Toys",
-    "description": "Introducing the Romania-inspired Ball, blending fuzzy style with local craftsmanship"
+    "name": "Sleek Aluminum Cheese",
+    "price": "692.55",
+    "category": "Shoes",
+    "description": "The Stand-alone tangible firmware Ball offers reliable performance and suburban design"
   }
 ]
