@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Frozen Ceramic Chips",
+    "price": "666.29",
+    "category": "Health",
+    "description": "Stylish Car designed to make you stand out with royal looks"
+  },
+  {
+    "name": "Licensed Plastic Sausages",
+    "price": "51.59",
+    "category": "Outdoors",
+    "description": "Stylish Mouse designed to make you stand out with first looks"
+  }
+]
