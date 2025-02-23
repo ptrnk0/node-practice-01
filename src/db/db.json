@@ -10,20 +10,5 @@
     "price": "576.29",
     "category": "Movies",
     "description": "Ergonomic Chicken made with Concrete for all-day early support"
-<<<<<<< HEAD
-=======
-  },
-  {
-    "name": "Luxurious Concrete Soap",
-    "price": "197.49",
-    "category": "Beauty",
-    "description": "Our sweet-inspired Computer brings a taste of luxury to your hateful lifestyle"
-  },
-  {
-    "name": "Ergonomic Steel Shoes",
-    "price": "803.45",
-    "category": "Jewelry",
-    "description": "New tan Ball with ergonomic design for wide comfort"
->>>>>>> 68898989159dc9256bdd9d7ada6b493728adbada
   }
 ]
