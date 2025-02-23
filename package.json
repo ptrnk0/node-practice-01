@@ -4,9 +4,13 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "remove-random": "node src/scripts/removeRandomProduct.js",
     "generate": "node src/scripts/generateProducts.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "add-one": "node src/scripts/addOneProduct.js"
+    "get-all": "node src/scripts/getAllProducts.js",
+    "add-one": "node src/scripts/addOneProduct.js",
+    "count": "node src/scripts/countProducts.js",
+    "clear": "node src/scripts/clearProducts.js"
   },
   "repository": {
     "type": "git",
