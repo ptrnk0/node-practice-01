@@ -16,5 +16,11 @@
     "price": "197.49",
     "category": "Beauty",
     "description": "Our sweet-inspired Computer brings a taste of luxury to your hateful lifestyle"
+  },
+  {
+    "name": "Ergonomic Steel Shoes",
+    "price": "803.45",
+    "category": "Jewelry",
+    "description": "New tan Ball with ergonomic design for wide comfort"
   }
 ]
